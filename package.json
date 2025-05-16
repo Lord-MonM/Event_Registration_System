@@ -1,0 +1,25 @@
+{
+  "name": "event_registration_system",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A registration system where users can register for events, view event details, and manage their registrations.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lord-MonM/Event_Registration_System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lord-MonM/Event_Registration_System/issues"
+  },
+  "homepage": "https://github.com/Lord-MonM/Event_Registration_System#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
